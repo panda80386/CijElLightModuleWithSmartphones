@@ -1,0 +1,217 @@
+{
+    "m_SelectedDeviceId": "89742ec8",
+    "m_SelectedPackage": {
+        "deviceId": "89742ec8",
+        "name": "jp.co.panda.cijellightmodule",
+        "processId": 20655,
+        "exited": false
+    },
+    "m_SelectedPriority": 0,
+    "m_KnownPackagesForSerialization": [
+        {
+            "deviceId": "89742ec8",
+            "name": "jp.co.panda.cijellightmodule",
+            "processId": 1283,
+            "exited": true
+        },
+        {
+            "deviceId": "89742ec8",
+            "name": "jp.co.panda.cijellightmodule",
+            "processId": 4646,
+            "exited": true
+        },
+        {
+            "deviceId": "89742ec8",
+            "name": "jp.co.panda.cijellightmodule",
+            "processId": 6097,
+            "exited": true
+        },
+        {
+            "deviceId": "89742ec8",
+            "name": "com.miui.home",
+            "processId": 13677,
+            "exited": false
+        },
+        {
+            "deviceId": "89742ec8",
+            "name": "jp.co.panda.cijellightmodule",
+            "processId": 6297,
+            "exited": true
+        },
+        {
+            "deviceId": "89742ec8",
+            "name": "jp.co.panda.cijellightmodule",
+            "processId": 6975,
+            "exited": false
+        },
+        {
+            "deviceId": "89742ec8",
+            "name": "jp.co.panda.cijellightmodule",
+            "processId": 8119,
+            "exited": false
+        },
+        {
+            "deviceId": "89742ec8",
+            "name": "jp.co.panda.cijellightmodule",
+            "processId": 10736,
+            "exited": false
+        },
+        {
+            "deviceId": "89742ec8",
+            "name": "jp.co.panda.cijellightmodule",
+            "processId": 13577,
+            "exited": false
+        },
+        {
+            "deviceId": "89742ec8",
+            "name": "jp.co.panda.cijellightmodule",
+            "processId": 14167,
+            "exited": false
+        },
+        {
+            "deviceId": "89742ec8",
+            "name": "jp.co.panda.cijellightmodule",
+            "processId": 14476,
+            "exited": false
+        },
+        {
+            "deviceId": "89742ec8",
+            "name": "jp.co.panda.cijellightmodule",
+            "processId": 15722,
+            "exited": false
+        },
+        {
+            "deviceId": "89742ec8",
+            "name": "jp.co.panda.cijellightmodule",
+            "processId": 16977,
+            "exited": false
+        },
+        {
+            "deviceId": "89742ec8",
+            "name": "jp.co.panda.cijellightmodule",
+            "processId": 17488,
+            "exited": false
+        },
+        {
+            "deviceId": "89742ec8",
+            "name": "jp.co.panda.cijellightmodule",
+            "processId": 18300,
+            "exited": false
+        },
+        {
+            "deviceId": "89742ec8",
+            "name": "jp.co.panda.cijellightmodule",
+            "processId": 19305,
+            "exited": false
+        },
+        {
+            "deviceId": "89742ec8",
+            "name": "jp.co.panda.cijellightmodule",
+            "processId": 19881,
+            "exited": false
+        },
+        {
+            "deviceId": "89742ec8",
+            "name": "jp.co.panda.cijellightmodule",
+            "processId": 20271,
+            "exited": false
+        },
+        {
+            "deviceId": "89742ec8",
+            "name": "jp.co.panda.cijellightmodule",
+            "processId": 20655,
+            "exited": false
+        },
+        {
+            "deviceId": "29081FDH300K5X",
+            "name": "jp.co.panda.cijellightmodule",
+            "processId": 26545,
+            "exited": true
+        },
+        {
+            "deviceId": "29081FDH300K5X",
+            "name": "jp.co.panda.cijellightmodule",
+            "processId": 27524,
+            "exited": false
+        },
+        {
+            "deviceId": "29081FDH300K5X",
+            "name": "jp.co.panda.cijellightmodule",
+            "processId": 28416,
+            "exited": false
+        },
+        {
+            "deviceId": "29081FDH300K5X",
+            "name": "jp.co.panda.cijellightmodule",
+            "processId": 3567,
+            "exited": false
+        }
+    ],
+    "m_Tags": {
+        "m_Entries": [
+            {
+                "m_Name": "Filter by all listed tags",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "No Filter",
+                "m_Selected": true
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Tag Control...",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Unity",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "CRASH",
+                "m_Selected": false
+            }
+        ]
+    },
+    "m_MemoryViewerState": {
+        "MemoryWindowHeight": 300.0,
+        "MemoryWindowWidth": 170.0,
+        "MemoryTypeEnabled": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "MemoryGroup": 2,
+        "Behavior": 0
+    },
+    "m_FilterOptions": {
+        "m_Filter": "",
+        "m_UseRegularExpressions": false,
+        "m_MatchCase": false
+    },
+    "m_SymbolPaths": [],
+    "m_CaptureVideoSettings": {
+        "TimeLimitEnabled": false,
+        "TimeLimit": 180,
+        "VideoSizeEnabled": false,
+        "VideoSizeX": 1280,
+        "VideoSizeY": 720,
+        "BitRateEnabled": false,
+        "BitRateK": 20000,
+        "DisplayIdEnabled": false,
+        "DisplayId": ""
+    }
+}
